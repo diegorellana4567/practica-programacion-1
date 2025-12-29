@@ -1,6 +1,6 @@
 # Mi primer programa: Validar contraseña
 # Autor: Diego Orellana
-contrasena_secreta = "Gatito123"
+contrasena_secreta = "Ingeniero2026"
 intento_usuario = ""
 
 print("--- SISTEMA DE SEGURIDAD ---")
